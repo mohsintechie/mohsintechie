@@ -1,5 +1,5 @@
 ### ✨ Who am I?
-My name is Mohsin and I’m admin of Mohsin Techie youtube web developing channel. On this page you will find all of the code snippets that I share on my youtube channel.
+My name is Mohsin and I’m admin of Mohsin Techie youtube channel. On this page you will find all of the code snippets that I share on my youtube channel.
 
 #### 🔗 My Youtube channel
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@mohsintechie)
