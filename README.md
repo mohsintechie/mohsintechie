@@ -5,4 +5,4 @@ My name is Mohsin and I’m admin of Mohsin Techie youtube web developing channe
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@mohsintechie)
 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg)  ![JavaScript](./assets/javascript.svg) 
